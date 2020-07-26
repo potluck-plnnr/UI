@@ -4,7 +4,7 @@
 ## Team:
 UI: Lakendria McCullough
 Front-End: Tim Pettit and Jonathan Han
-Back-End: Andrewn Haberman and Taylor Pepler-Madsen
+Back-End: Andrew Haberman and Taylor Pepler-Madsen
 Project Lead: Kai Haskell
 
 ## Proposal 
@@ -43,7 +43,7 @@ You're planning the office potluck, but have no idea who's all attending and wha
     ## Frameworks -- Libraries
 
     What 3rd party frameworks/libraries are you considering using?
-    -HTML5up.net for the webpage template
+    
     Do the APIs you need require you to contact them to gain access?
     Are you required to pay to use said API(s)?
 
